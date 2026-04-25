@@ -1,2 +1,7 @@
-# Industrial-Protocol-Metrics-Mapping-Study
-Replication Package for the systematic mapping study on metrics for evaluating secure industrial communication protocols in closed-loop control systems.
+**Replication package for the article**: Evaluation Metrics for Industrial Communication Protocols - A Systematic Mapping Study
+
+**Written by**: Volodymyr Trykoz, Nicholas Sjöqvist Obucina, Björn Leander, Saad Mubeen, Mohammad Ashjaei
+
+**From**: Mälardalen University, Västerås, Sweden
+
+**Topic**: A systematic mapping study of metrics used to evaluate the performance of industrial communication protocols.

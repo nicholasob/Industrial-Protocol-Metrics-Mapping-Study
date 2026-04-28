@@ -1,4 +1,4 @@
-**Replication package for the article**: Evaluation Metrics for Industrial Communication Software Stack - A Systematic Mapping Study
+**Replication package for the article**: Evaluation Metrics for Communication Protocols in Secure Industrial Software Systems - A Systematic Mapping Study
 
 **Written by**: Volodymyr Trykoz, Nicholas Sjöqvist Obucina, Björn Leander, Saad Mubeen, Mohammad Ashjaei
 

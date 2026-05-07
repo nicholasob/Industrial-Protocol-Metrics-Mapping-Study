@@ -5,3 +5,5 @@
 **From**: Mälardalen University, Västerås, Sweden
 
 **Topic**: A systematic mapping study of metrics used to evaluate the performance of industrial communication protocols.
+
+The publication builds on the master's thesis of **Nicholas Sjöqvist Obucina** at Mälardalen University.
